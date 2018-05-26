@@ -4,7 +4,7 @@ def printThings(things):
 		for thing in things:
 			print thing
 	
-listOfThings = ["Bob", "USB", "House" 3, 45, 90]
+listOfThings = ["Bob", "USB", "House" 3, 45, 90, 60, 30, "HAM"]
 
 printThings(listOfThings)
 
